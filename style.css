@@ -1,6 +1,75 @@
-.Outer{
+.layer1{
     display: flex;
     flex-direction: column;
-    background-color: red;
+    background-color: #1F2937;
+    /* border: 3px solid red; */
 }
 
+/* TOP HALF OF LAYER 1 --------------------------------------------------- */
+.header{
+    display:flex;
+    justify-content: space-around;
+}
+
+.top{
+    display: flex;
+    justify-content: space-around;
+}
+
+.linkdiv{
+    align-self: center;
+    display:flex;
+    gap: 10px;
+}
+
+.headerlogo, .links{
+    font-family: "Hero Secondary Text";
+}
+
+.headerlogo{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.links{
+    font-size: 18px;
+    color: #E5E7EB;
+} 
+
+/* BOTTOM HALF OF LAYER 1 ------------------------------------------------------------ */
+.belowL1{
+    display:flex;
+    gap: 15px;
+    justify-content: space-evenly;
+    margin: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.L1Image{
+    max-width: 250px;
+    height:auto;
+}
+
+.awesome{
+    font-size: 48px;
+    font-family: "Hero Main Text";
+    font-weight: bolder;
+    color: #F9FAF8;
+    margin: 2px;
+}
+
+.subtext{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.L1Button{
+    background-color: #3882F6;
+    color: white;
+    border: 0px;
+    border-style: ridge;
+    width: 100px;
+    height: 25px;
+    border-radius: 10px;
+}
