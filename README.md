@@ -9,3 +9,10 @@ The goal is to replicate this from scratch, applying the CSS and HTML skills I h
 Below are the fonts and colours of the final landing page
 
 ![landing page fonts](https://github.com/Shuang394/OdinLandingPage/assets/131367380/92a423d0-c218-46bd-abd8-18d554f308e5)
+
+# Personal journey
+-Made the mistake of not linking the CSS file in the HTML file, which results in CSS not being applied.
+-Google's inspect webpage tool is extremly powerful for seeing every div's square and thus knowing how to align them and how to flex them. 
+-Flexing is extremly powerful and can be constantly spammed everywhere!
+-Border Radius for buttons give it rounded edges!
+
