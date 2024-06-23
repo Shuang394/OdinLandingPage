@@ -15,4 +15,5 @@ Below are the fonts and colours of the final landing page
 -Google's inspect webpage tool is extremly powerful for seeing every div's square and thus knowing how to align them and how to flex them. 
 -Flexing is extremly powerful and can be constantly spammed everywhere!
 -Border Radius for buttons give it rounded edges!
+-Calling nested HTML from CSS requires a spacing! For example, if you have a <p> child in a <div> in a class called "class1", in CSS you will type .class1 div p, not .class1.div.p. <---- this is for an element having multiple class names like class = "class1 class2 class3".
 
