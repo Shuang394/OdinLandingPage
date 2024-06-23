@@ -22,3 +22,6 @@ Below are the fonts and colours of the final landing page
 
 I noticed that my page is not very "responsive" per say. If i shrink the webpage, the images are stubborn and do not adjust position or size, and some text can be in awkward positions when i shrink the webpage. This is one part i need to improve on, as this means my website is not cross platform compatible. 
 
+## Final Product:
+
+<img width="952" alt="image" src="https://github.com/Shuang394/OdinLandingPage/assets/131367380/880f8ac0-bfdc-4820-ad08-ea190c44a76b">
